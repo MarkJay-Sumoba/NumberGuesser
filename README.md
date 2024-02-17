@@ -2,7 +2,7 @@
 
 This is a simple number guessing game where you have to guess a target number between 0 and 9. You'll compete against the computer, and the one who guesses closer to the target number wins the round.
 
-## ![Hero](./image/hero.jpeg 'Hero')
+## ![Hero](hero.jpeg 'Hero')
 
 ## How to Play
 
